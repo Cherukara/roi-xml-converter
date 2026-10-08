@@ -5,6 +5,10 @@ __pycache__/
 # C extensions
 *.so
 
+# ROI files for testing
+*.roi
+*.xml
+
 # NIFTI data
 *.nii
 *.nii.gz
